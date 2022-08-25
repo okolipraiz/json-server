@@ -1,4 +1,5 @@
-[
+{
+  "tags":[
   "Kings",
   "Queens",
   "Prince",
@@ -18,3 +19,4 @@
   "Farmer",
   "Hunter"
 ]
+}

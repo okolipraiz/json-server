@@ -4,7 +4,11 @@
   "description": "server storage for my software application",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "json-server -p 3500 --w data/comments.json",
+    "serve-json-tag": "json-server -p 3500 --w data/tags.json",
+    "serve-currency": "json-server -p 3500 --w data/currency.json",
+    "serve-data": "json-server -p 3500 --w data.js"
   },
   "author": "okolipraiz",
   "license": "ISC",
