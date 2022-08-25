@@ -1,0 +1,28 @@
+[
+    {
+       "id": 1,
+        "question": "Is the system secure",
+        "answer": "Disburse.me online payroll services automates your federal and state tax filings and payments on your behalf at no additional charge."
+    },
+    {
+        "id": 2,
+        "question": "Can i invite beneficiaries by email?",
+        "answer": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ips animi debitis fugiat aliquid asperiores similique excepturideleniti porro ab necessitatibus quod ad, ducimus quisquam,maiores eos alias,cupiditate rerum veniam!"
+    },
+    {
+        "id": 3,
+        "question": "Can i upload a CSV file of beneficiaries?",
+        "answer": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ips animi debitis fugiat aliquid asperiores similique excepturideleniti porro ab necessitatibus quod ad, ducimus quisquam,maiores eos alias,cupiditate rerum veniam!"
+    },
+    {
+        "id": 4,
+        "question":
+            "Does my beneficiaries get email confirmations after disbursements?",
+        "answer": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ips animi debitis fugiat aliquid asperiores similique excepturideleniti porro ab necessitatibus quod ad, ducimus quisquam,maiores eos alias,cupiditate rerum veniam!"
+    },
+    {
+        "id": 5,
+        "question": "What percentage am I being charged for?",
+        "answer": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ips animi debitis fugiat aliquid asperiores similique excepturideleniti porro ab necessitatibus quod ad, ducimus quisquam,maiores eos alias,cupiditate rerum veniam!"
+    }
+]
