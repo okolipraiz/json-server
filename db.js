@@ -4,7 +4,7 @@ const budget = require('./data/budget');
 const earnings = require('./data/earnings');
 const expense = require('./data/expense');
 const notes = require('./data/notes');
-const savings = require("./data/savibngs");
+const savings = require("./data/savings");
 
 module.exports = {
   account,
