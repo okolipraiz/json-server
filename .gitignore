@@ -3,9 +3,6 @@
 /.pnp
 .pnp.js
 
-# file
-data.js
-
 # testing
 /coverage
 
