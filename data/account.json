@@ -1,0 +1,12 @@
+{
+  "account": [
+    {
+      "id": "1",
+      "first_name": "Eve's",
+      "last_name": "End",
+      "email": "raiz@gmail.com",
+      "password": "12345",
+      "phone": "0812345678"
+    }
+  ]
+}

@@ -5,10 +5,13 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve-json": "json-server -p 3500 --w data/comments.json",
-    "serve-json-tag": "json-server -p 3500 --w data/tags.json",
-    "serve-currency": "json-server -p 3500 --w data/currency.json",
-    "serve-data": "json-server -p 3500 --w data.js"
+    "serve-account": "json-server -p 3500 --w data/account.json",
+    "serve-notes": "json-server -p 3500 --w data/notes.json",
+    "serve-budget": "json-server -p 3500 --w data/budget.json",
+    "serve-earnings": "json-server -p 3500 --w data/earnings.json",
+    "serve-expenses": "json-server -p 3500 --w data/expense.json",
+    "serve-savings": "json-server -p 3500 --w data/savings.json",
+    "serve-balance": "json-server -p 3500 --w data/balance.json",
   },
   "author": "okolipraiz",
   "license": "ISC",

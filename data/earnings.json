@@ -1,0 +1,14 @@
+{
+  "earnings":[
+    {
+      "id":1,
+      "title":"Earnings",
+      "amount":0
+    },
+    {
+      "id":2,
+      "title":"Expenses",
+      "amount": 100
+    }
+  ]
+}
