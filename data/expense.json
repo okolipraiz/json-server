@@ -2,13 +2,8 @@
   "expense":[
     {
       "id":1,
-      "title":"food I ate",
-      "amount":0
-    },
-    {
-      "id":2,
-      "title":"transportation",
-      "amount": 100
+      "spent": 10000,
+      "month": "January"
     }
   ]
 }
