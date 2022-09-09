@@ -1,12 +1,11 @@
-{
-  "budget":[
+[
     {
       "id":1,
       "name":"Budget 1",
       "amount":100,
       "startDate":"01/01/2018",
       "endDate":"01/01/2019",
-      "sub_category": "Food" 
+      "sub_category": "Food"
     },
     {
       "id":2,
@@ -49,4 +48,3 @@
       "sub_category": "health"
     }
 ]
-}
