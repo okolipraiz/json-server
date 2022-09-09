@@ -1,5 +1,4 @@
-{
-  "notes": [
+[
     {
       "id": 1,
       "note": "Is the system secure",
@@ -56,4 +55,3 @@
       "category": "safe"
     }
   ]
-}

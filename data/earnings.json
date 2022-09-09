@@ -1,5 +1,4 @@
-{
-  "earnings":[
+[
     {
       "id":1,
       "title":"Earnings",
@@ -10,5 +9,4 @@
       "title":"Expenses",
       "amount": 100
     }
-  ]
-}
+]
